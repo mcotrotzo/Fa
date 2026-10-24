@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "gtest",
+    "sfml",
+    "nlohmann-json",
+    "tgui",
+    "magic-enum",
+    "spdlog"
+  ]
+}
